@@ -1,0 +1,5 @@
+# Nebula Forge Devlog
+
+- Continued development pass: cleaned unused duplicate touch helper path, added Settings / Flight Manual panel with reduced-motion, high-contrast, compact HUD, and aim-assist toggles; added save slots plus export/import save codes; expanded artifact descriptions and synergies; added elite enemy modifiers with visual rings, bounties, siphon/volatile behavior; enriched beacon rewards and onboarding/help text.
+- Polish pass: fixed load button callback to avoid event-as-slot bug, made C/O panel toggles mode-aware, removed a no-op survey beacon gate assignment, and made Drone Hive + Phase Lens produce crit/arc drone shots.
+- Content systems pass: added a dockable contracts board with miner/bounty/beacon/survival contracts, claimable rewards, contract rank, and save persistence; added station services for hull repair, refuel/cooldown, hazard reroll, and tuning respec; added Z/MODE weapon cycling between Pulse, Lance, and Flak with distinct projectile behavior; added achievements, win tracking, sector-7 campaign victory, and an Overdrive new-run unlock; updated codex/help/mobile controls to surface the new systems.
